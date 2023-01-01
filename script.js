@@ -1,5 +1,5 @@
 let a = 0, b = 1000;
-let h1Title = document.querySelector("#h1Title");
+let h1Title = document.querySelector("#Title");
 let btnStart = document.querySelector("#btnStart");
 let playBox = document.querySelector("#playBox");
 let btnLess = document.querySelector("#btnLess");
